@@ -2,7 +2,9 @@
 
 > "You can't manage what you don't measure." — Peter Drucker
 
-A lightweight macOS activity tracker. Logs which app (and Chrome tab) you're using throughout the day, and provides a local web UI to review your time.
+A lightweight macOS activity tracker.
+
+![Screenshot](Screenshot.png) Logs which app (and Chrome tab) you're using throughout the day, and provides a local web UI to review your time.
 
 ## Files
 
